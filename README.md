@@ -16,11 +16,11 @@ Principais ferramentas:
 
 <div>
   <img height="60" width="60" src="https://5.imimg.com/data5/SELLER/Default/2023/10/350044474/GS/MO/NG/198979354/microsoft-sql-server-500x500.png">
-  <img height="60" width="60" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png">
-  <img height="60" width="60" src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_excel_logo_icon_145720.png">
+  <img height="60" width="60" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png">
+  <img height="60" width="60" src="https://w7.pngwing.com/pngs/660/87/png-transparent-microsoft-excel-microsoft-project-logo-microsoft-word-excel-microsoft-excel-logo-angle-text-microsoft-office-thumbnail.png">
   <img height="60" width="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png">
-  <img height="60" width="60" src="https://sharepointinterface.com/wp-content/uploads/2023/01/PALogo.png">
-  <img height="60" width="60" src="https://img.icons8.com/fluent/512/microsoft-power-apps.png">  
+  <img height="60" width="60" src="https://ecellorscrm.com/wp-content/uploads/2023/01/power-automate-image.png?w=409">
+  <img height="60" width="60" src="https://media.licdn.com/dms/image/v2/C4D33AQG6Xb3xsWxcKg/productpage-image_1128_635/productpage-image_1128_635/0/1649417297022/office_line_sa_power_apps_image?e=2147483647&v=beta&t=rCmT5QdgR_xSRI4FZboyUZbCh_djrvOelvSNyLmso4Q">  
 </div>
 
 <br>
