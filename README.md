@@ -17,7 +17,7 @@ Principais ferramentas:
 <div>
   <img height="60" width="60" src="https://banner2.cleanpng.com/20180617/iw/aa6thtcyg.webp">
   <img height="60" width="60" src="https://images.datacamp.com/image/upload/v1714478776/re388xshtgihucfiiavf.png">
-  <img height="60" width="60" src="https://img.freepik.com/premium-vector/microsoft-excel-logo-spreadsheet-program-microsoft-office-365-logotype-microsoft-corporation-software-editorial_661108-17045.jpg">
+  <img height="60" width="60" src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_excel_logo_icon_145720.png">
   <img height="60" width="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png">
   <img height="60" width="60" src="https://aaronkgumbs.com/wp-content/uploads/2022/07/lglogopowerautomate.png">
   <img height="60" width="60" src="https://addendanalytics.com/wp-content/uploads/2021/09/image-1.png">  
