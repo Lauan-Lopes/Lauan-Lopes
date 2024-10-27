@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou o Lauan 👋
+## Cargo: Assistente de PCP, <br> Formação: Engenheiro de Produção
 
-<!--
-**Lauan-Lopes/Lauan-Lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim:
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalho como Assistente de Planejamento e Controle de Produção
+- 🏘️ Moro em Vinhedo/SP
+- 👨‍💼 Trabalho em Valinhos/SP
+- 👨‍💻 Estou estudando DSA (Data Science and Analytics) na USP Esalq
+- 💬 Gosto de aprender novas tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+Principais ferramentas:
+
+<div>
+  <img height="40" width="40" src=" ">
+  <img height="40" width="40" src=" ">
+  <img height="40" width="40" src=" ">
+  <img height="40" width="40" src=" ">
+  <img height="40" width="40" src=" ">  
+</div>
+
+<br>
+
+Onde pode me encontrar:
+<div>
+  <a href="https://br.linkedin.com/in/lauan-lopes-5a7280163">
+    <img height="40" width="40" src="
+  </a>
+  <a href="https://github.com/Lauan-Lopes">
+    <img height="40" width="40" src="
+  </a> 
+</div>
