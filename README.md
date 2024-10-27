@@ -16,7 +16,7 @@ Principais ferramentas:
 
 <div>
   <img height="60" width="60" src="https://habrastorage.org/webt/xc/y-/bu/xcy-buybcop-lnllkaliablk5zm.png">
-  <img height="60" width="60" src="https://images.datacamp.com/image/upload/v1714478776/re388xshtgihucfiiavf.png">
+  <img height="60" width="60" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png">
   <img height="60" width="60" src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_excel_logo_icon_145720.png">
   <img height="60" width="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png">
   <img height="60" width="60" src="https://aaronkgumbs.com/wp-content/uploads/2022/07/lglogopowerautomate.png">
