@@ -3,11 +3,12 @@
 
 Sobre mim:
 
-- 🔭 Atualmente trabalho como Assistente de Planejamento e Controle de Produção
-- 🏘️ Moro em Vinhedo/SP
+- 💼 Atualmente trabalho como Assistente de Planejamento e Controle de Produção
 - 👨‍💼 Trabalho na Kemin em Valinhos/SP
-- 👨‍💻 Estou estudando DSA (Data Science and Analytics) na USP Esalq
+- 🏘️ Moro em Vinhedo/SP
+- 🎓 Estou estudando DSA (Data Science and Analytics) na USP Esalq
 - 💬 Gosto de aprender novas tecnologias
+- 👨‍💻 Aspirante a Analista de Dados 
 
 <br>
 
