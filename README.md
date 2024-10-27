@@ -15,12 +15,12 @@ Sobre mim:
 Principais ferramentas:
 
 <div>
-  <img height="60" width="60" src="https://5.imimg.com/data5/SELLER/Default/2023/10/350044474/GS/MO/NG/198979354/microsoft-sql-server-500x500.png">
-  <img height="60" width="60" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png">
-  <img height="60" width="60" src="https://wallpapers.com/images/hd/microsoft-excel-logo-sbnxrlm5gorlbhch.jpg">
-  <img height="60" width="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png">
-  <img height="60" width="60" src="https://ecellorscrm.com/wp-content/uploads/2023/01/power-automate-image.png?w=409">
-  <img height="60" width="60" src="https://media.licdn.com/dms/image/v2/C4D33AQG6Xb3xsWxcKg/productpage-image_1128_635/productpage-image_1128_635/0/1649417297022/office_line_sa_power_apps_image?e=2147483647&v=beta&t=rCmT5QdgR_xSRI4FZboyUZbCh_djrvOelvSNyLmso4Q">  
+  <img height="60" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX6ahEg460vJ7NXAIGYZAhXDa4ne06qd6SjTLmluqKGESf73RYJlGePextxOp_N3IQwdM&usqp=CAU">
+  <img height="60" width="60" src="https://images.datacamp.com/image/upload/v1714478776/re388xshtgihucfiiavf.png">
+  <img height="60" width="60" src="https://img.freepik.com/vetores-premium/logotipo-da-microsoft-excel-programa-de-folha-de-calculo-microsoft-office-365-logotipo-microsoft-corporation-software-editorial_661108-17045.jpg?semt=ais_hybrid">
+  <img height="60" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA4O9vVj9yvXs7ByFTrDBodfF9NuXtXfO-Ag&s">
+  <img height="60" width="60" src="https://addendanalytics.com/wp-content/uploads/2021/09/Logo-Power-Automate.png">
+  <img height="60" width="60" src="https://addendanalytics.com/wp-content/uploads/2021/09/image-1.png">  
 </div>
 
 <br>
