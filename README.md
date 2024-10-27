@@ -1,5 +1,5 @@
 # Olá, eu sou o Lauan 👋
-## Cargo: Assistente de PCP 💼<br> Formação: Engenheiro de Produção 🎓
+## Cargo: Assistente de PCP 📝<br> Formação: Engenheiro de Produção 🏭
 
 Sobre mim:
 
@@ -8,7 +8,7 @@ Sobre mim:
 - 🏘️ Moro em Vinhedo/SP
 - 🎓 Estou cursando pós graduação em DSA (Data Science and Analytics) na USP Esalq
 - 💬 Gosto de aprender novas tecnologias
-- 👨‍💻 Aspirante a Analista de Dados 
+- 📊 Aspirante a Analista de Dados 
 
 <br>
 
