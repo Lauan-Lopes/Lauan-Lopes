@@ -1,12 +1,12 @@
 # Olá, eu sou o Lauan 👋
-## Cargo: Assistente de PCP, <br> Formação: Engenheiro de Produção
+## Cargo: Assistente de PCP <br> Formação: Engenheiro de Produção
 
 Sobre mim:
 
 - 💼 Atualmente trabalho como Assistente de Planejamento e Controle de Produção
 - 👨‍💼 Trabalho na Kemin em Valinhos/SP
 - 🏘️ Moro em Vinhedo/SP
-- 🎓 Estou estudando DSA (Data Science and Analytics) na USP Esalq
+- 🎓 Estou cursando pós graduação em DSA (Data Science and Analytics) na USP Esalq
 - 💬 Gosto de aprender novas tecnologias
 - 👨‍💻 Aspirante a Analista de Dados 
 
