@@ -1,5 +1,5 @@
-# Olá, eu sou o Lauan
-## Cargo: Assistente de PCP <br> Formação: Engenheiro de Produção
+# Olá, eu sou o Lauan 👋
+## Cargo: Assistente de PCP 💼<br> Formação: Engenheiro de Produção 🎓
 
 Sobre mim:
 
