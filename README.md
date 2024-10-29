@@ -8,7 +8,7 @@ Sobre mim:
 - 🏘️ Moro em Vinhedo/SP
 - 🎓 Estou cursando pós graduação em DSA (Data Science and Analytics) na USP Esalq
 - 💬 Gosto de aprender novas tecnologias
-- 📊 Dedicação com analise de Dados 
+- 📊 Dedicação com analise de dados 
 
 <br>
 
